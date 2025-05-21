@@ -4,10 +4,9 @@
   box-sizing: border-box;
 }
 
-
-
-.container{
+.container {
   margin: 0 auto;
+  width: 1440px;
 }
 
 body {
@@ -17,7 +16,7 @@ body {
   font-size: 16px;
   font-weight: 500;
   margin: 0;
- /* border: 5px solid blueviolet;*/
+  /* border: 5px solid blueviolet;*/
   width: 1440px;
 }
 .header {
@@ -34,7 +33,6 @@ body {
 
 .header .link {
   font-weight: regular;
-  font-size: 12px;
   line-height: 16px;
   text-decoration: none;
   color: #212121;
@@ -49,13 +47,12 @@ body {
 .header .main-list {
   display: flex;
   gap: 40px;
-   margin-left: 76px ;
+  margin-left: 76px;
 }
 .header .contact {
   display: flex;
   gap: 40px;
-  margin-left: 332px ;
-  
+  margin-left: 332px;
 }
 .header .link2 {
   text-decoration: none;
@@ -75,8 +72,7 @@ header .link2:hover {
   font-weight: 700;
   color: #4d5ae5;
   line-height: 21px;
-  margin-left: 156px ;
-  
+  margin-left: 156px;
 }
 .header .logo-2 {
   color: #000;
@@ -89,13 +85,12 @@ header .link2:hover {
   font-family: "raleway", sans-serif;
   text-decoration: none;
   margin-top: 100px;
-   font-size: 18px;
+  font-size: 18px;
   font-weight: 700;
   color: #4d5ae5;
   line-height: 21px;
   margin-left: 156px;
   margin-top: 100px;
-  
 }
 
 .footer #logo-3 {
@@ -141,18 +136,17 @@ ul {
   width: 1440px;
   margin: 0px;
   padding: 0px;
-border-top: 1PX solid #e7e9fc;
+  border-top: 1px solid #e7e9fc;
 
   /*border: 5px solid red;*/
 }
 
 .title1 {
- /* border: 5px solid red;*/
- padding: auto;
+  /* border: 5px solid red;*/
+  padding: auto;
   margin: 188px 0 0 472px;
   height: 120px;
   width: 496px;
- 
 }
 
 .button {
@@ -175,7 +169,7 @@ border-top: 1PX solid #e7e9fc;
   margin-left: 156px;
   margin-top: 120px;
 
- /* border: 5px solid blue;*/
+  /* border: 5px solid blue;*/
 }
 
 .services-name {
@@ -191,7 +185,7 @@ border-top: 1PX solid #e7e9fc;
   width: 1440px;
   height: 732px;
 
- /* border: 5px solid red;*/
+  /* border: 5px solid red;*/
 }
 .team .team-list {
   display: flex;
@@ -261,5 +255,5 @@ border-top: 1PX solid #e7e9fc;
 .footer-text {
   width: 264px;
   height: 72px;
-  margin: 16px 0 0 156px ;
+  margin: 16px 0 0 156px;
 }
