@@ -159,6 +159,8 @@ ul {
   padding: 16px 32px;
   margin: 48px 0 0 636px;
   color: #ffffff;
+  border-radius: 4px ;
+  border: none;
 }
 
 .services {
@@ -242,6 +244,13 @@ ul {
   flex-basis: calc((100% - 48px) / 3);
 }
 
+.portfolio-name {
+  padding-left: 16px;
+}
+
+.portfolio-exp{
+  margin-left: 16px;
+}
 /*footer bölümü*/
 
 .footer {
