@@ -94,7 +94,7 @@ header .link2:hover {
 
 .footer #logo-3 {
   font-family: "raleway", sans-serif;
-  color: #fff;
+  color: #f4f4fd;
   text-decoration: none;
 }
 
@@ -256,4 +256,5 @@ ul {
   width: 264px;
   height: 72px;
   margin: 16px 0 0 156px;
+  color: #f4f4fd;
 }
