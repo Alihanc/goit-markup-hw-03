@@ -58,7 +58,7 @@ body {
   color: #434455;
 }
 header .link2:hover {
-  text-decoration: underline;
+  text-decoration: none;
   color: #4d5ae5;
 }
 
@@ -163,6 +163,11 @@ ul {
   border: none;
 }
 
+.button:hover {
+  background-color: #404bbf;
+  color: #ffffff;
+  text-decoration: none;
+}
 .services {
   display: flex;
   width: 1128px;
